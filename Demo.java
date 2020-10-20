@@ -1,4 +1,4 @@
-public class printLoop{
+public class Demo{
   public static void main(String arg[]){
     if (arg.length>0){
       printLoop(Integer.parseInt(arg[0]));
